@@ -1,2 +1,5 @@
-# anarchist-colorbot-dahood
-anarchist colorbot made for dahood games.
+# anarchist-colorbot
+
+Language - C++
+Games - Da track, Hood customs.
+
